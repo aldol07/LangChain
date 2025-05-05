@@ -19,3 +19,8 @@ numpy
 scikit-learn
 
 streamlit
+
+langchain-community
+pypdf
+
+beautifulsoup4
