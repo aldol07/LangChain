@@ -24,3 +24,6 @@ langchain-community
 pypdf
 
 beautifulsoup4
+
+chromadb
+tiktoken
