@@ -27,3 +27,6 @@ beautifulsoup4
 
 chromadb
 tiktoken
+
+tiktoken
+wikipedia
